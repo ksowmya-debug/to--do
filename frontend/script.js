@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/todos";
+const API_URL = "https://todo-backend-api-ps2b.onrender.com/todos";
 
 const addBtn = document.getElementById("addBtn");
 const taskInput = document.getElementById("taskInput");
